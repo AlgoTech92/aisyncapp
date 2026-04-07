@@ -1,0 +1,21 @@
+# AiSyncApp User Data Deletion Instructions
+
+**Effective: April 7, 2026**
+
+AiSyncApp processes minimal transient data for social operations. No persistent user profiles or PII stored.
+
+### How to Request Deletion
+1. **Email**: Send deletion request to **support@aisyncapp.com** with:
+   - Your email/account used with AiSyncApp.
+   - App ID: `1537914142438`.
+   - Reason (optional).
+2. **Response**: We'll confirm within 48hrs + delete associated data.
+
+### What Gets Deleted
+- **Receipts/Logs**: Action records (post_ids, timestamps, credits) in Supabase.
+- **Transient Data**: Any queued/in-flight Meta API payloads.
+
+### Confirmation
+You'll receive email confirmation post-deletion.
+
+**No Data Retained** post-deletion.
