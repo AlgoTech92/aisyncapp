@@ -1,0 +1,24 @@
+# AiSyncApp Privacy Policy
+
+**Effective: April 7, 2026**
+
+AiSyncApp ("we", "us") respects your privacy. This policy explains how we handle data for Facebook/Instagram operations.
+
+### Data We Collect
+- **Meta Tokens**: Page/User Access Tokens (injected at runtime, never stored in agents).
+- **Page Data**: Posts, DMs, Insights (processed transiently for actions).
+- **Receipts**: Action logs (ID, timestamp, status, credits) stored in Supabase for billing/audit.
+
+### How We Use Data
+- Execute social ops (post, reply, insights).
+- Billing via credit economy.
+- Idempotency (prevent duplicates via request_id).
+
+### Sharing
+No sharing/selling. Tokens isolated in n8n/Supabase.
+
+### Deletion
+Contact support@aisyncapp.com. User data deleted on request.
+
+### Changes
+We'll notify via app/email.
